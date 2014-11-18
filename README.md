@@ -7,6 +7,8 @@ Since I upgraded to Yosemite a lot of old Processing sketches broke, rather than
 
 ===========================
 
+This project is a spawn of --> [ProjectIrrationalMondriaan](https://github.com/DeRaafMedia/ProjectIrrationalMondriaan). Where you can read a full description. 
+
 The Irrational Mondriaan series is an exploration of how willing viewers are to interact with interactive paintings.
 
 The paintings in rest are digital reproductions of Mondriaan paintings. I choose Mondriaan paintings because to me they have a philopsophy to 'deconstruct' a composition to it's fundamentals. Horizontals, verticals, if color is used it's just a minimal pallet of reds, yellows and blues. I perceive these paintings as a pure 'rational' modus operandi.
