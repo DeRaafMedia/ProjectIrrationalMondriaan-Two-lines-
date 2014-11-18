@@ -21,7 +21,7 @@ What these video paintings do is giving the viewer the opportunity to counter ac
 
 ![alt tag](https://github.com/DeRaafMedia/ProjectIrrationalMondriaan-Two-lines-/blob/master/bin/data/Irrational Mondriaan.png)
 
-(This specific painitng is sound reactive. The two lines changes over a longer periode of time. Viewer needs to yell long and hard for the full effect)
+(This specific painitng is sound reactive. The two lines changes over a longer periode of time. Viewer needs to yell long and hard for the full effect. [Example with music -->](http://youtu.be/3wLd2m-mYJI))
 
 Written and only tested with Mac OS X Yosemite, Xcode 6.1 and I used a Nightly Build openFrameworks (wanted to test some new upcoming functionality)
 
